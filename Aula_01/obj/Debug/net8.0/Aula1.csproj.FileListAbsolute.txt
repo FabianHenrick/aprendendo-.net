@@ -12,3 +12,4 @@
 /home/hendriko/Documents/Estudos/(.NET e C#)/Aula1/obj/Debug/net8.0/Aula1.pdb
 /home/hendriko/Documents/Estudos/(.NET e C#)/Aula1/obj/Debug/net8.0/Aula1.genruntimeconfig.cache
 /home/hendriko/Documents/Estudos/(.NET e C#)/Aula1/obj/Debug/net8.0/ref/Aula1.dll
+/home/hendriko/Documents/Estudos/(.NET e C#)/Aula1/obj/Debug/net8.0/Aula1.sourcelink.json
