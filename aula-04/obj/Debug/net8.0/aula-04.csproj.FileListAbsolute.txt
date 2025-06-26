@@ -1,0 +1,15 @@
+/home/hendriko/Documents/Estudos/(.NET e C#)/aprendendo-.net/aula-04/bin/Debug/net8.0/aula-04
+/home/hendriko/Documents/Estudos/(.NET e C#)/aprendendo-.net/aula-04/bin/Debug/net8.0/aula-04.deps.json
+/home/hendriko/Documents/Estudos/(.NET e C#)/aprendendo-.net/aula-04/bin/Debug/net8.0/aula-04.runtimeconfig.json
+/home/hendriko/Documents/Estudos/(.NET e C#)/aprendendo-.net/aula-04/bin/Debug/net8.0/aula-04.dll
+/home/hendriko/Documents/Estudos/(.NET e C#)/aprendendo-.net/aula-04/bin/Debug/net8.0/aula-04.pdb
+/home/hendriko/Documents/Estudos/(.NET e C#)/aprendendo-.net/aula-04/obj/Debug/net8.0/aula-04.GeneratedMSBuildEditorConfig.editorconfig
+/home/hendriko/Documents/Estudos/(.NET e C#)/aprendendo-.net/aula-04/obj/Debug/net8.0/aula-04.AssemblyInfoInputs.cache
+/home/hendriko/Documents/Estudos/(.NET e C#)/aprendendo-.net/aula-04/obj/Debug/net8.0/aula-04.AssemblyInfo.cs
+/home/hendriko/Documents/Estudos/(.NET e C#)/aprendendo-.net/aula-04/obj/Debug/net8.0/aula-04.csproj.CoreCompileInputs.cache
+/home/hendriko/Documents/Estudos/(.NET e C#)/aprendendo-.net/aula-04/obj/Debug/net8.0/aula-04.sourcelink.json
+/home/hendriko/Documents/Estudos/(.NET e C#)/aprendendo-.net/aula-04/obj/Debug/net8.0/aula-04.dll
+/home/hendriko/Documents/Estudos/(.NET e C#)/aprendendo-.net/aula-04/obj/Debug/net8.0/refint/aula-04.dll
+/home/hendriko/Documents/Estudos/(.NET e C#)/aprendendo-.net/aula-04/obj/Debug/net8.0/aula-04.pdb
+/home/hendriko/Documents/Estudos/(.NET e C#)/aprendendo-.net/aula-04/obj/Debug/net8.0/aula-04.genruntimeconfig.cache
+/home/hendriko/Documents/Estudos/(.NET e C#)/aprendendo-.net/aula-04/obj/Debug/net8.0/ref/aula-04.dll
